@@ -26,7 +26,7 @@ I am passionate about integrating new technologies and design techniques to deli
   2018 - 2023
 
 - **NuAI Healthcare AI App**  
-  *Lead Designer*  
+  *Lead Product Manager*  
   Designed the Nuverse Mobile App to revolutionize preventive healthcare using AI technology.
 
 - **Mipo Financial Platform**  
@@ -34,11 +34,11 @@ I am passionate about integrating new technologies and design techniques to deli
   Created a document factoring platform with streamlined workflows and enhanced user experience.
 
 - **W3Dart Bug Reporting Tool**  
-  *Lead Designer*  
+  *Lead Developer*  
   Developed a modern, responsive bug reporting tool with improved project consistency.
 
 - **BLKResumes Recruitment Platform**  
-  *Product Manager & Designer*  
+  *Product Manager & Developer*  
   Built a user-friendly platform for recruiters and candidates, optimizing hiring processes.
 
 ## 🎨 Design Portfolios
