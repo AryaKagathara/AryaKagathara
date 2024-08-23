@@ -45,13 +45,14 @@ I am passionate about integrating new technologies and design techniques to deli
 
 - [Behance Portfolio](https://www.behance.net/aryakagathara)
 - [Pinterest Portfolio](https://www.pinterest.com/aryakagathara)
-
+- [Website](https://www.comsci.tech)
 ## 📫 Get in Touch
 
 Feel free to reach out to me through the following:
 
 - **Email:** [aryakagathara27@gmail.com](mailto:aryakagathara27@gmail.com)
 - **Phone:** +91 9687379447
+- **Website:** www.comsci.tech
 
 Thank you for visiting my profile! I look forward to collaborating on exciting projects and making a positive impact in the digital world.
 
