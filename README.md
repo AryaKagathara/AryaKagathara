@@ -23,7 +23,7 @@ I am passionate about integrating new technologies and design techniques to deli
 
 - **W3Nuts Digital Agency**  
   *Chief Marketing Officer
-  2018 - 2023
+  2018 - 2022
 
 - **NuAI Healthcare AI App**  
   *Lead Product Manager*  
