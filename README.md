@@ -18,16 +18,16 @@ I am passionate about integrating new technologies and design techniques to deli
 ## 🚀 Experience
 
 - **Comsci Technologies**  
-  *Product Manager*  
-  2023 - Present
+  *CEO & Founder
+  2022 - Present
 
 - **W3Nuts Digital Agency**  
-  *Senior Developer*  
+  *Chief Marketing Officer
   2018 - 2023
 
 - **NuAI Healthcare AI App**  
   *Lead Product Manager*  
-  Designed the Nuverse Mobile App to revolutionize preventive healthcare using AI technology.
+  Designed the Nuverse Mobile App to revolutionise preventive healthcare using AI technology.
 
 - **Mipo Financial Platform**  
   *Lead Designer & Developer*  
@@ -39,7 +39,7 @@ I am passionate about integrating new technologies and design techniques to deli
 
 - **BLKResumes Recruitment Platform**  
   *Product Manager & Developer*  
-  Built a user-friendly platform for recruiters and candidates, optimizing hiring processes.
+  Built a user-friendly platform for recruiters and candidates, optimising hiring processes.
 
 ## 🎨 Design Portfolios
 
